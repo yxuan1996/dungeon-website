@@ -43,6 +43,7 @@
 .modal-body {
   background: #ECEFF1;
   padding: 60px 40px;
+  color: #000000;
 }
 
 /* Close Button */
@@ -85,18 +86,6 @@
   border: 1px solid #ffffff;
   text-decoration: none;
 }
-
-/* .modal-trigger {
-  position: relative;
-  top: 50%;
-  left: 50%;
-  -webkit-transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%);
-  -o-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
-  transition: ease .2s;
-}
-*/
 
 button {
   border: 1px solid #333333;
