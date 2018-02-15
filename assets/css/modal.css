@@ -43,7 +43,10 @@
 .modal-body {
   background: #ECEFF1;
   padding: 60px 40px;
-  color: #000000;
+}
+
+.modal-body p {
+  color: black;
 }
 
 /* Close Button */
